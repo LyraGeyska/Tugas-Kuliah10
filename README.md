@@ -4,9 +4,8 @@
 Report merupakan proses atau hasil dari pembuatan laporan dari data yang ada dalam sebuah aplikasi. Report biasanya berupa lembar laporan yang berisikan data terstruktur misalnya sebuah tabel, grafik, ataupun sebuah ringkasan.
 
 ## A. Langkah-langkah Instalasi Plugin iReport 
-File Plugin iReport dan Library ada pada Folder Download Plugin & Library iReport.
+
 ### 1. Download iReport, jangan lupa extract file yang sudah di download.
-[LICENSE]()
 
 ### 2. Kemudian buka netbeans, masuk pada menu Tools > Plugins
 ![image](https://github.com/user-attachments/assets/3d9b41a6-952a-426a-bfaa-adf07153f13c)
