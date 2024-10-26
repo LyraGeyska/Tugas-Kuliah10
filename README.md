@@ -19,7 +19,7 @@ Setelah itu centang ketiga file, dan lakukan Instalasi.
 ## B. Langkah-Langkah Menambahkan JasperReport pada Netbeans
 ### 1. Download file Library pada repository, kemudian extract.
 ### 2. Buka menu Tools > Libraries
-![image](https://github.com/user-attachments/assets/92060094-3788-4d6c-930a-f50fc01059cb)
+![image](https://github.com/user-attachments/assets/1c1b7dcd-2ded-4026-b730-446c620bded9)
 
 ### 3. Kemudian hapus Library JasperReport yang sebelumnya sudah ada, dan buat Library baru.
 ![image](https://github.com/user-attachments/assets/f3cb467e-cb5b-42c4-844a-faf6dfd8703d)
