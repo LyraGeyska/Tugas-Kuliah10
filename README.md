@@ -1,4 +1,4 @@
-#Penggunaan iReport untuk Membuat Laporan
+# Penggunaan iReport untuk Membuat Laporan
 
 ## Pengertian Report
 Report merupakan proses atau hasil dari pembuatan laporan dari data yang ada dalam sebuah aplikasi. Report biasanya berupa lembar laporan yang berisikan data terstruktur misalnya sebuah tabel, grafik, ataupun sebuah ringkasan.
@@ -103,7 +103,7 @@ Masukkan code berikut :
 
 Kemudian Runing
 
-### D. Cara Kerja atau Demo iReport
+## D. Cara Kerja atau Demo iReport
 ### 1. Running Program, pastikan anda sudah menginputkan data.
 ![image](https://github.com/user-attachments/assets/d4175fe0-7813-4ab9-b7b3-e4c1c3558ce2)
 
