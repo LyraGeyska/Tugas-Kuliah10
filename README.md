@@ -8,7 +8,8 @@ Report merupakan proses atau hasil dari pembuatan laporan dari data yang ada dal
 ### 1. Download iReport, jangan lupa extract file yang sudah di download.
 
 ### 2. Kemudian buka netbeans, masuk pada menu Tools > Plugins
-![image](https://github.com/user-attachments/assets/3d9b41a6-952a-426a-bfaa-adf07153f13c)
+![image](https://github.com/user-attachments/assets/dd0e13f7-0956-4852-b05f-28704df7838a)
+
 
 Pilih Downloaded > Add Plugins... > masukkan file plugins iReport yang sudah didownload > Open, Akan muncul tampilan seperti berikut :
 ![image](https://github.com/user-attachments/assets/eb83589f-3d72-4c81-9e66-7c888eaf6830)
