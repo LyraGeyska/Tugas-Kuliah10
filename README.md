@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/34b1e02c-99fc-42a4-86da-086b4f6ce0d0)# Membuat Report atau Laporan
----
+#Penggunaan iReport untuk Membuat Laporan
 
 ## Pengertian Report
 Report merupakan proses atau hasil dari pembuatan laporan dari data yang ada dalam sebuah aplikasi. Report biasanya berupa lembar laporan yang berisikan data terstruktur misalnya sebuah tabel, grafik, ataupun sebuah ringkasan.
