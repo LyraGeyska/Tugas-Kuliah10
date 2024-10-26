@@ -1,6 +1,5 @@
 # Penggunaan iReport untuk Membuat Laporan
 
-## Pengertian Report
 Report merupakan proses atau hasil dari pembuatan laporan dari data yang ada dalam sebuah aplikasi. Report biasanya berupa lembar laporan yang berisikan data terstruktur misalnya sebuah tabel, grafik, ataupun sebuah ringkasan.
 
 ## A. Langkah-langkah Instalasi Plugin iReport 
