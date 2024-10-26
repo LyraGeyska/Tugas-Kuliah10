@@ -32,7 +32,7 @@ Setelah itu centang ketiga file, dan lakukan Instalasi.
 ![image](https://github.com/user-attachments/assets/72d6ce6c-4b1a-48e9-9c6a-58df705f3218)
 
 ### 6. Tampilan setelah Library berhasil ditambahkan :
-![image](https://github.com/user-attachments/assets/94fbd10a-22e0-4b70-a9ab-8771e7e209c9)
+![image](https://github.com/user-attachments/assets/3998901c-3c01-4b7c-acb1-9ec9eaee35a8)
 
 ## C. Membuat iReport pada Netbeans
 
